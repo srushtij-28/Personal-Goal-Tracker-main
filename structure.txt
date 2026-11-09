@@ -1,0 +1,24 @@
+Features
+Add a personal goal
+View all goals
+Update goal progress
+Mark a goal as completed
+Search goals by title
+Delete goals
+Show goal completion statistics
+Save goals in a JSON file
+
+Project Structure
+Personal_Goal_Tracker/
+│
+├── main.py
+├── goal_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── goals.json
